@@ -1,0 +1,35 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/11/fastdfs-docker-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/11/saas-dfs" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/11/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/demoMybatisplus" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/flashexpress-saas-user-all" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-common" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-customer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-customer-gateway" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-dfs" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-gateway-web" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-id-generator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-inventory" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-jenkins" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-livebox" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-long-mgmt" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-order" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-short-link" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-urm" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yq_area_server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yq_timer_event" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yqts-nrgl/yqts-nrgl-interflow" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/btc/trs-cloud-btc-server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/rzk/yq_area_demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/test/yq_server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/yq/optimize/yq_server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/yq/yq_server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/yqzx/yqzx_server" startUpFlag="FIRST" />
+    <entry projectPath="D:/backup/07-FastDFS/代码/代码/03-fastdfs-java" startUpFlag="FIRST" />
+    <entry projectPath="D:/backup/07-FastDFS/代码/代码/04-fastdfs-web" startUpFlag="FIRST" />
+  </component>
+</application>
