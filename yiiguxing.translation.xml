@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="721" />
-    <option name="newTranslationDialogX" value="971" />
-    <option name="newTranslationDialogY" value="245" />
+    <option name="newTranslationDialogWidth" value="719" />
+    <option name="newTranslationDialogX" value="1027" />
+    <option name="newTranslationDialogY" value="242" />
     <histories>
+      <item value="单个" />
+      <item value="单个&#10;" />
       <item value="启用渠道库存" />
       <item value="启用渠道" />
       <item value="启用" />
@@ -52,7 +54,6 @@
       <item value="置顶时间" />
       <item value="置顶时间&#10;" />
       <item value="置顶" />
-      <item value="自动" />
     </histories>
   </component>
   <component name="Cache">
