@@ -1,9 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="725" />
-    <option name="newTranslationDialogX" value="883" />
-    <option name="newTranslationDialogY" value="394" />
+    <option name="newTranslationDialogWidth" value="721" />
+    <option name="newTranslationDialogX" value="971" />
+    <option name="newTranslationDialogY" value="245" />
     <histories>
+      <item value="启用渠道库存" />
+      <item value="启用渠道" />
+      <item value="启用" />
+      <item value="活动" />
+      <item value="活动&#10;" />
+      <item value="启用直播库存&#10;" />
+      <item value="启用库存&#10;" />
+      <item value="启用&#10;" />
+      <item value="启用限制&#10;" />
+      <item value="启用直播&#10;" />
+      <item value="启用上限&#10;" />
+      <item value="启用上线&#10;" />
+      <item value="启用库存&#10;&#10;" />
+      <item value="活动启用&#10;" />
+      <item value="直播价格" />
+      <item value="价格" />
+      <item value="活动价格" />
       <item value="是否是最后的节点&#10;&#10;" />
       <item value="是否是最后的&#10;" />
       <item value="是否是&#10;" />
