@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="713" />
-    <option name="newTranslationDialogX" value="587" />
-    <option name="newTranslationDialogY" value="226" />
+    <option name="newTranslationDialogWidth" value="711" />
+    <option name="newTranslationDialogX" value="1082" />
+    <option name="newTranslationDialogY" value="296" />
     <histories>
+      <item value="Animals &amp; Pet Supplies" />
       <item value="正常" />
       <item value="销售限制" />
       <item value="销售" />
@@ -53,7 +54,6 @@
       <item value="子商品至少需要有一个&#10;" />
       <item value="子商品至少需要" />
       <item value="子商品至少" />
-      <item value="子商品" />
     </histories>
   </component>
   <component name="Cache">
