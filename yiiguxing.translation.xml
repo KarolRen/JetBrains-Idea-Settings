@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="587" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="正常" />
       <item value="销售限制" />
       <item value="销售" />
       <item value="上限" />
@@ -53,7 +54,6 @@
       <item value="子商品至少需要" />
       <item value="子商品至少" />
       <item value="子商品" />
-      <item value="至少需要有一个" />
     </histories>
   </component>
   <component name="Cache">
