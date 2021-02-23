@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="1082" />
-    <option name="newTranslationDialogY" value="296" />
+    <option name="newTranslationDialogWidth" value="709" />
+    <option name="newTranslationDialogX" value="694" />
+    <option name="newTranslationDialogY" value="245" />
     <histories>
+      <item value="instagram" />
+      <item value="instagra" />
+      <item value="in" />
       <item value="Animals &amp; Pet Supplies" />
       <item value="正常" />
       <item value="销售限制" />
@@ -51,9 +54,6 @@
       <item value="至少需要有一个子商品" />
       <item value="至少需要有一个&#10;子商品" />
       <item value="至少需要有一个&#10;" />
-      <item value="子商品至少需要有一个&#10;" />
-      <item value="子商品至少需要" />
-      <item value="子商品至少" />
     </histories>
   </component>
   <component name="Cache">
