@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="709" />
+    <option name="newTranslationDialogWidth" value="707" />
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="245" />
     <histories>
+      <item value="开启" />
+      <item value="激活" />
+      <item value="激活&#10;" />
       <item value="instagram" />
       <item value="instagra" />
       <item value="in" />
@@ -51,9 +54,6 @@
       <item value="至少保留一个" />
       <item value="至少保留" />
       <item value="至少" />
-      <item value="至少需要有一个子商品" />
-      <item value="至少需要有一个&#10;子商品" />
-      <item value="至少需要有一个&#10;" />
     </histories>
   </component>
   <component name="Cache">
