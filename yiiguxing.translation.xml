@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="245" />
     <histories>
+      <item value="编辑状态" />
+      <item value="编辑" />
+      <item value="bian" />
       <item value="开启" />
       <item value="激活" />
       <item value="激活&#10;" />
@@ -51,12 +54,9 @@
       <item value="上架" />
       <item value="上架&#10;" />
       <item value="至少保留一个子商品" />
-      <item value="至少保留一个" />
-      <item value="至少保留" />
-      <item value="至少" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613740224116" />
+    <option name="lastTrimTime" value="1614232722432" />
   </component>
 </application>
