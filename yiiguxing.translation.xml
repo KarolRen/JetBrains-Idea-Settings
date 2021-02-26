@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="707" />
+    <option name="newTranslationDialogWidth" value="705" />
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="245" />
     <histories>
+      <item value="上架" />
       <item value="编辑状态" />
       <item value="编辑" />
       <item value="bian" />
@@ -51,7 +52,6 @@
       <item value="最后" />
       <item value="最后&#10;" />
       <item value="最后一级" />
-      <item value="上架" />
       <item value="上架&#10;" />
       <item value="至少保留一个子商品" />
     </histories>
