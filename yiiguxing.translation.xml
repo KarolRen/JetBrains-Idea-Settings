@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="835" />
     <option name="newTranslationDialogY" value="699" />
     <histories>
+      <item value="销量" />
+      <item value="剩余&#10;" />
       <item value="促销" />
       <item value="促销&#10;" />
       <item value="上架" />
@@ -52,8 +54,6 @@
       <item value="是否是最终&#10;" />
       <item value="是否最终&#10;" />
       <item value="最终&#10;" />
-      <item value="最后面的节点" />
-      <item value="最后面的" />
     </histories>
   </component>
   <component name="Cache">
