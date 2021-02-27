@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="703" />
-    <option name="newTranslationDialogX" value="738" />
-    <option name="newTranslationDialogY" value="313" />
+    <option name="newTranslationDialogWidth" value="701" />
+    <option name="newTranslationDialogX" value="835" />
+    <option name="newTranslationDialogY" value="699" />
     <histories>
+      <item value="上架" />
       <item value="直播中" />
       <item value="直播中&#10;" />
       <item value="直播" />
-      <item value="上架" />
       <item value="编辑状态" />
       <item value="编辑" />
       <item value="bian" />
