@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="701" />
+    <option name="newTranslationDialogWidth" value="699" />
     <option name="newTranslationDialogX" value="835" />
     <option name="newTranslationDialogY" value="699" />
     <histories>
+      <item value="促销" />
+      <item value="促销&#10;" />
       <item value="上架" />
       <item value="直播中" />
       <item value="直播中&#10;" />
@@ -52,8 +54,6 @@
       <item value="最终&#10;" />
       <item value="最后面的节点" />
       <item value="最后面的" />
-      <item value="最后" />
-      <item value="最后&#10;" />
     </histories>
   </component>
   <component name="Cache">
