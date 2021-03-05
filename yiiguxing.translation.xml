@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="697" />
-    <option name="newTranslationDialogX" value="835" />
-    <option name="newTranslationDialogY" value="699" />
+    <option name="newTranslationDialogHeight" value="358" />
+    <option name="newTranslationDialogWidth" value="1030" />
+    <option name="newTranslationDialogX" value="282" />
+    <option name="newTranslationDialogY" value="400" />
     <histories>
+      <item value="Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
+      <item value=" Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_byExpression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
+      <item value=" Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
       <item value="显示状态" />
       <item value="状态" />
       <item value="隐藏状态" />
@@ -51,9 +55,6 @@
       <item value="启用上线&#10;" />
       <item value="启用库存&#10;&#10;" />
       <item value="活动启用&#10;" />
-      <item value="直播价格" />
-      <item value="价格" />
-      <item value="活动价格" />
     </histories>
   </component>
   <component name="Cache">
