@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="400" />
     <histories>
+      <item value="唯一索引" />
+      <item value="唯一索引&#10;" />
+      <item value="唯一" />
+      <item value="唯一搜因" />
       <item value="目标" />
       <item value="mu" />
       <item value="Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
@@ -51,10 +55,6 @@
       <item value="启用直播库存&#10;" />
       <item value="启用库存&#10;" />
       <item value="启用&#10;" />
-      <item value="启用限制&#10;" />
-      <item value="启用直播&#10;" />
-      <item value="启用上限&#10;" />
-      <item value="启用上线&#10;" />
     </histories>
   </component>
   <component name="Cache">
