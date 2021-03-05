@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="699" />
+    <option name="newTranslationDialogWidth" value="697" />
     <option name="newTranslationDialogX" value="835" />
     <option name="newTranslationDialogY" value="699" />
     <histories>
+      <item value="显示状态" />
+      <item value="状态" />
+      <item value="隐藏状态" />
+      <item value="审核状态" />
+      <item value="审核" />
       <item value="条件" />
       <item value="销量" />
       <item value="剩余&#10;" />
@@ -49,11 +54,6 @@
       <item value="直播价格" />
       <item value="价格" />
       <item value="活动价格" />
-      <item value="是否是最后的节点&#10;&#10;" />
-      <item value="是否是最后的&#10;" />
-      <item value="是否是&#10;" />
-      <item value="是否是最终&#10;" />
-      <item value="是否最终&#10;" />
     </histories>
   </component>
   <component name="Cache">
