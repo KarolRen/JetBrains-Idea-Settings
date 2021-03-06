@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="1028" />
+    <option name="newTranslationDialogWidth" value="1026" />
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="400" />
     <histories>
+      <item value="最低价格" />
+      <item value="最低" />
       <item value="唯一索引" />
       <item value="唯一索引&#10;" />
       <item value="唯一" />
@@ -53,8 +55,6 @@
       <item value="活动" />
       <item value="活动&#10;" />
       <item value="启用直播库存&#10;" />
-      <item value="启用库存&#10;" />
-      <item value="启用&#10;" />
     </histories>
   </component>
   <component name="Cache">
