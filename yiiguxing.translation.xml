@@ -2,13 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
     <option name="newTranslationDialogWidth" value="1022" />
-    <option name="newTranslationDialogX" value="282" />
-    <option name="newTranslationDialogY" value="400" />
+    <option name="newTranslationDialogX" value="160" />
+    <option name="newTranslationDialogY" value="692" />
     <histories>
+      <item value="商品销售链接" />
+      <item value="商品销售" />
+      <item value="商品" />
       <item value="销售连接" />
       <item value="销售" />
       <item value="商品链接" />
-      <item value="商品" />
       <item value="最低&#10;" />
       <item value="最低价格" />
       <item value="最低" />
@@ -53,8 +55,6 @@
       <item value="销售上限数字" />
       <item value="单个" />
       <item value="单个&#10;" />
-      <item value="启用渠道库存" />
-      <item value="启用渠道" />
     </histories>
   </component>
   <component name="Cache">
