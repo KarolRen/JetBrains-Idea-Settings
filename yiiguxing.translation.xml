@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="1014" />
+    <option name="newTranslationDialogWidth" value="1012" />
     <option name="newTranslationDialogX" value="621" />
     <option name="newTranslationDialogY" value="315" />
     <histories>
+      <item value="Ledakan Eropah dan Amerika cermin mata hitam retro bingkai besar 2020 kacamata hitam bersih wanita baru fesyen cermin mata hitam lebar" />
       <item value="导入方式" />
       <item value="导入" />
       <item value="The plugin adds a random text generator, capable of creating witty texts in different genres. Created text can be inserted newly at the caret, or replace a selection. The dummy text generator is added to the main menu, tools menu and into the generate... popup (Alt+Insert).  Used from the main menu, text is generated in the previously selected genre. Used from the Tools menu or Generate popup, the plugin allows to choose from several genres:: &#10;Culinary Inspirations&#10;Esoteric Wisdom&#10;Fake Latin (similar to &quot;Lorem Ipsum&quot; blindtext)&#10;Pirate Lingo&#10;Science Fiction&#10; When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being maintained. When the replaced text selection consists fully of lower-cased or capital letters or begins with a capital letter, that previous casing is maintained. Furthermore, the presence or absence of a trailing punctuation mark of a replaced text selection is being maintained.  Please note: This plugin is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied." />
@@ -54,10 +55,9 @@
       <item value="in" />
       <item value="Animals &amp; Pet Supplies" />
       <item value="正常" />
-      <item value="销售限制" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616054313493" />
+    <option name="lastTrimTime" value="1616748889733" />
   </component>
 </application>
