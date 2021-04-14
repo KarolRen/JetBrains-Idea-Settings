@@ -39,6 +39,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="mybatis.AutoCoding">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
