@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="1012" />
-    <option name="newTranslationDialogX" value="621" />
-    <option name="newTranslationDialogY" value="315" />
+    <option name="newTranslationDialogWidth" value="1008" />
+    <option name="newTranslationDialogX" value="-1197" />
+    <option name="newTranslationDialogY" value="231" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="不能选择两个一样的属性" />
+      <item value="Can't choose two same attributes" />
+      <item value="identical " />
       <item value="Ledakan Eropah dan Amerika cermin mata hitam retro bingkai besar 2020 kacamata hitam bersih wanita baru fesyen cermin mata hitam lebar" />
       <item value="导入方式" />
       <item value="导入" />
@@ -52,12 +56,9 @@
       <item value="激活&#10;" />
       <item value="instagram" />
       <item value="instagra" />
-      <item value="in" />
-      <item value="Animals &amp; Pet Supplies" />
-      <item value="正常" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616748889733" />
+    <option name="lastTrimTime" value="1618989003375" />
   </component>
 </application>
