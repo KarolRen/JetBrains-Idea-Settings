@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="447" />
     <option name="newTranslationDialogY" value="264" />
     <histories>
+      <item value="No URLs will be polled as dynamic configuration sources" />
       <item value="but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread" />
       <item value="不能选择两个一样的属性" />
       <item value="Can't choose two same attributes" />
@@ -54,7 +55,6 @@
       <item value="开启" />
       <item value="激活" />
       <item value="激活&#10;" />
-      <item value="instagram" />
     </histories>
   </component>
   <component name="Cache">
