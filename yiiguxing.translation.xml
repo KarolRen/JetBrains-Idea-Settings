@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="1002" />
+    <option name="newTranslationDialogWidth" value="1000" />
     <option name="newTranslationDialogX" value="-1832" />
     <option name="newTranslationDialogY" value="154" />
     <histories>
+      <item value="数据不存在&#10;" />
+      <item value="数据" />
       <item value="找不到数据" />
       <item value="找不到" />
       <item value="商品已经过期或者不存在" />
@@ -53,8 +55,6 @@
       <item value="上架" />
       <item value="直播中" />
       <item value="直播中&#10;" />
-      <item value="直播" />
-      <item value="编辑状态" />
     </histories>
   </component>
   <component name="Cache">
