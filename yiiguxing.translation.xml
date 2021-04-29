@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="-1832" />
     <option name="newTranslationDialogY" value="154" />
     <histories>
+      <item value="找不到数据" />
+      <item value="找不到" />
       <item value="商品已经过期或者不存在" />
       <item value="商品已经过期不存在" />
       <item value="商品过期不存在" />
@@ -53,8 +55,6 @@
       <item value="直播中&#10;" />
       <item value="直播" />
       <item value="编辑状态" />
-      <item value="编辑" />
-      <item value="bian" />
     </histories>
   </component>
   <component name="Cache">
