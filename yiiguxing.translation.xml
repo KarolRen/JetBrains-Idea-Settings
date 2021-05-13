@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="990" />
+    <option name="newTranslationDialogWidth" value="988" />
     <option name="newTranslationDialogX" value="243" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Initialize tier variation list &amp; add tier variation" />
       <item value="一键导入" />
       <item value="yi" />
       <item value="数据不存在" />
@@ -54,11 +55,10 @@
       <item value="销量" />
       <item value="剩余&#10;" />
       <item value="促销" />
-      <item value="促销&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
+        <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
