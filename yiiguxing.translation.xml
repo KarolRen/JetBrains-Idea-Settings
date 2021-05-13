@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
     <option name="newTranslationDialogWidth" value="988" />
-    <option name="newTranslationDialogX" value="243" />
-    <option name="newTranslationDialogY" value="459" />
+    <option name="newTranslationDialogX" value="-1144" />
+    <option name="newTranslationDialogY" value="237" />
     <histories>
       <item value="Initialize tier variation list &amp; add tier variation" />
       <item value="一键导入" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620371333737" />
+    <option name="lastTrimTime" value="1620872090101" />
   </component>
 </application>
