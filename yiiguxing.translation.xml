@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="358" />
-    <option name="newTranslationDialogWidth" value="982" />
+    <option name="newTranslationDialogWidth" value="980" />
     <option name="newTranslationDialogX" value="489" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Failed to process import candidates for configuration class " />
+      <item value="Could not evaluate condition on org.springframework.cloud.alibaba.nacos.NacosConfigBootstrapConfiguration due to org/springframework/boot/bind/RelaxedPropertyResolver not found. Make sure your own configuration does not rely on that class. This can also happen if you are @ComponentScanning a springframework package (e.g. if you put a @ComponentScan in the default package by mistake" />
       <item value="操作备注" />
       <item value="操作来源" />
       <item value="操作" />
@@ -53,12 +55,10 @@
       <item value="显示状态" />
       <item value="状态" />
       <item value="隐藏状态" />
-      <item value="审核状态" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
