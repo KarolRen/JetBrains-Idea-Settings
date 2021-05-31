@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1133" />
+    <option name="newTranslationDialogWidth" value="1131" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="图片&#10;" />
+      <item value="扩展名&#10;" />
+      <item value="扩展" />
       <item value="org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration]; nested exception is java.lang.IllegalStateException: Could not evaluate condition on org.springframework.cloud.alibaba.nacos.NacosConfigBootstrapConfiguration due to org/springframework/boot/bind/RelaxedPropertyResolver not found. Make sure your own configuration does not rely on that class. This can also happen if you are @ComponentScanning a springframework package (e.g. if you put a @ComponentScan in the default package by mistake)" />
       <item value="Failed to process import candidates for configuration class " />
       <item value="Could not evaluate condition on org.springframework.cloud.alibaba.nacos.NacosConfigBootstrapConfiguration due to org/springframework/boot/bind/RelaxedPropertyResolver not found. Make sure your own configuration does not rely on that class. This can also happen if you are @ComponentScanning a springframework package (e.g. if you put a @ComponentScan in the default package by mistake" />
@@ -52,18 +55,15 @@
       <item value="mu" />
       <item value="Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
       <item value=" Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_byExpression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
-      <item value=" Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
-      <item value="显示状态" />
-      <item value="状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621822566327" />
+    <option name="lastTrimTime" value="1622427671377" />
   </component>
 </application>
