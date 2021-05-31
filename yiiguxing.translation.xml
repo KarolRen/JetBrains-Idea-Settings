@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="非法文件" />
+      <item value="非法" />
+      <item value="fei" />
       <item value="图片&#10;" />
       <item value="扩展名&#10;" />
       <item value="扩展" />
@@ -52,14 +55,11 @@
       <item value="唯一" />
       <item value="唯一搜因" />
       <item value="目标" />
-      <item value="mu" />
-      <item value="Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
-      <item value=" Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_byExpression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'saas_dev.cp.create_time' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
