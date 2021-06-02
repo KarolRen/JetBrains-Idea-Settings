@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1129" />
+    <option name="newTranslationDialogWidth" value="1127" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="新增shopee商品缺少必传数据" />
+      <item value="新增shopee商品缺少必传" />
+      <item value="新增shopee商品缺少" />
+      <item value="新增shopee商品" />
+      <item value="新增shopee" />
+      <item value="新增shopee s" />
+      <item value="新增shopee " />
+      <item value="新增" />
       <item value="非法文件" />
       <item value="非法" />
       <item value="fei" />
@@ -47,19 +55,11 @@
       <item value="销售连接" />
       <item value="销售" />
       <item value="商品链接" />
-      <item value="最低&#10;" />
-      <item value="最低价格" />
-      <item value="最低" />
-      <item value="唯一索引" />
-      <item value="唯一索引&#10;" />
-      <item value="唯一" />
-      <item value="唯一搜因" />
-      <item value="目标" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
