@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1123" />
+    <option name="newTranslationDialogWidth" value="1121" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="已经存在" />
+      <item value="已经" />
       <item value="部分数据不在店铺的商品限制范围内" />
       <item value="部分数据不在限制范围内" />
       <item value="部分数据不在限制范围" />
@@ -53,13 +55,11 @@
       <item value="Ledakan Eropah dan Amerika cermin mata hitam retro bingkai besar 2020 kacamata hitam bersih wanita baru fesyen cermin mata hitam lebar" />
       <item value="导入方式" />
       <item value="导入" />
-      <item value="The plugin adds a random text generator, capable of creating witty texts in different genres. Created text can be inserted newly at the caret, or replace a selection. The dummy text generator is added to the main menu, tools menu and into the generate... popup (Alt+Insert).  Used from the main menu, text is generated in the previously selected genre. Used from the Tools menu or Generate popup, the plugin allows to choose from several genres:: &#10;Culinary Inspirations&#10;Esoteric Wisdom&#10;Fake Latin (similar to &quot;Lorem Ipsum&quot; blindtext)&#10;Pirate Lingo&#10;Science Fiction&#10; When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being maintained. When the replaced text selection consists fully of lower-cased or capital letters or begins with a capital letter, that previous casing is maintained. Furthermore, the presence or absence of a trailing punctuation mark of a replaced text selection is being maintained.  Please note: This plugin is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied." />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
