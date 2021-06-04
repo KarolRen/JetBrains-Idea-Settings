@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="不在限制范围内" />
+      <item value="不在限制范围" />
+      <item value="不在限制" />
+      <item value="不在" />
+      <item value="bu" />
       <item value="Method has too many Body parameters" />
       <item value="已经存在" />
       <item value="已经" />
@@ -50,16 +55,11 @@
       <item value="商品过期不存在" />
       <item value="No URLs will be polled as dynamic configuration sources" />
       <item value="but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread" />
-      <item value="不能选择两个一样的属性" />
-      <item value="Can't choose two same attributes" />
-      <item value="identical " />
-      <item value="Ledakan Eropah dan Amerika cermin mata hitam retro bingkai besar 2020 kacamata hitam bersih wanita baru fesyen cermin mata hitam lebar" />
-      <item value="导入方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
