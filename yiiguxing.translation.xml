@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="Method has too many Body parameters" />
       <item value="已经存在" />
       <item value="已经" />
       <item value="部分数据不在店铺的商品限制范围内" />
@@ -54,12 +55,11 @@
       <item value="identical " />
       <item value="Ledakan Eropah dan Amerika cermin mata hitam retro bingkai besar 2020 kacamata hitam bersih wanita baru fesyen cermin mata hitam lebar" />
       <item value="导入方式" />
-      <item value="导入" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
