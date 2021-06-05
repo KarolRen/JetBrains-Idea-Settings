@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1117" />
+    <option name="newTranslationDialogWidth" value="1113" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="存在部分非法的数据" />
+      <item value="存在非法的数据" />
+      <item value="存在非法的" />
+      <item value="存在" />
+      <item value="非法的数据" />
+      <item value="非法的" />
+      <item value="非法" />
+      <item value="数据异常" />
+      <item value="数据" />
       <item value="层级变体选项数超过20个" />
       <item value="层级变体选项数超过20" />
       <item value="层级变体选项数超过" />
@@ -41,20 +50,11 @@
       <item value="新增shopee " />
       <item value="新增" />
       <item value="非法文件" />
-      <item value="非法" />
       <item value="fei" />
       <item value="图片&#10;" />
       <item value="扩展名&#10;" />
       <item value="扩展" />
       <item value="org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration]; nested exception is java.lang.IllegalStateException: Could not evaluate condition on org.springframework.cloud.alibaba.nacos.NacosConfigBootstrapConfiguration due to org/springframework/boot/bind/RelaxedPropertyResolver not found. Make sure your own configuration does not rely on that class. This can also happen if you are @ComponentScanning a springframework package (e.g. if you put a @ComponentScan in the default package by mistake)" />
-      <item value="Failed to process import candidates for configuration class " />
-      <item value="Could not evaluate condition on org.springframework.cloud.alibaba.nacos.NacosConfigBootstrapConfiguration due to org/springframework/boot/bind/RelaxedPropertyResolver not found. Make sure your own configuration does not rely on that class. This can also happen if you are @ComponentScanning a springframework package (e.g. if you put a @ComponentScan in the default package by mistake" />
-      <item value="操作备注" />
-      <item value="操作来源" />
-      <item value="操作" />
-      <item value="绑定记录" />
-      <item value="绑定" />
-      <item value="Initialize tier variation list &amp; add tier variation" />
     </histories>
     <option name="languageScores">
       <map>
