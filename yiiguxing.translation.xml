@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="层级变体选项数超过20个" />
+      <item value="层级变体选项数超过20" />
+      <item value="层级变体选项数超过" />
+      <item value="层级变体选项数" />
+      <item value="层级变体选项" />
+      <item value="层级变体" />
+      <item value="层级" />
+      <item value="层数超过两层" />
       <item value="变体层级结构层数超过两层" />
       <item value="缺少必传参数&#10;" />
       <item value="缺少必传" />
@@ -47,14 +55,6 @@
       <item value="绑定记录" />
       <item value="绑定" />
       <item value="Initialize tier variation list &amp; add tier variation" />
-      <item value="一键导入" />
-      <item value="yi" />
-      <item value="数据不存在" />
-      <item value="数据" />
-      <item value="数据不存在&#10;" />
-      <item value="找不到数据" />
-      <item value="找不到" />
-      <item value="商品已经过期或者不存在" />
     </histories>
     <option name="languageScores">
       <map>
