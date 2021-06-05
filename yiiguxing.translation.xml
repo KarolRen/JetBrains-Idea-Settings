@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1121" />
+    <option name="newTranslationDialogWidth" value="1119" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="缺少必传参数&#10;" />
+      <item value="缺少必传" />
+      <item value="缺少" />
       <item value="不在限制范围内" />
       <item value="不在限制范围" />
       <item value="不在限制" />
@@ -52,9 +55,6 @@
       <item value="找不到" />
       <item value="商品已经过期或者不存在" />
       <item value="商品已经过期不存在" />
-      <item value="商品过期不存在" />
-      <item value="No URLs will be polled as dynamic configuration sources" />
-      <item value="but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622427671377" />
+    <option name="lastTrimTime" value="1622863970836" />
   </component>
 </application>
