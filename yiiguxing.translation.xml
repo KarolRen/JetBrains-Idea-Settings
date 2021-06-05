@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1119" />
+    <option name="newTranslationDialogWidth" value="1117" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="变体层级结构层数超过两层" />
       <item value="缺少必传参数&#10;" />
       <item value="缺少必传" />
       <item value="缺少" />
@@ -54,7 +55,6 @@
       <item value="找不到数据" />
       <item value="找不到" />
       <item value="商品已经过期或者不存在" />
-      <item value="商品已经过期不存在" />
     </histories>
     <option name="languageScores">
       <map>
