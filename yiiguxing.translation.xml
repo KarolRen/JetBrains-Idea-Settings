@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1109" />
+    <option name="newTranslationDialogWidth" value="1107" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="不能添加" />
+      <item value="不能" />
+      <item value="fff不能" />
       <item value="调用接口失败&#10;" />
       <item value="调用接口" />
       <item value="调用" />
@@ -52,18 +55,15 @@
       <item value="新增shopee s" />
       <item value="新增shopee " />
       <item value="新增" />
-      <item value="非法文件" />
-      <item value="fei" />
-      <item value="图片&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622863970836" />
+    <option name="lastTrimTime" value="1623999561133" />
   </component>
 </application>
