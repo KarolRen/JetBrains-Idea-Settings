@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1107" />
+    <option name="newTranslationDialogWidth" value="1105" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="114" />
     <histories>
+      <item value="属性选项值不能为空" />
+      <item value="属性选项值不能" />
+      <item value="属性选项值" />
+      <item value="属性选项" />
+      <item value="属性" />
       <item value="不能添加" />
       <item value="不能" />
       <item value="fff不能" />
@@ -50,16 +55,11 @@
       <item value="新增shopee商品缺少必传数据" />
       <item value="新增shopee商品缺少必传" />
       <item value="新增shopee商品缺少" />
-      <item value="新增shopee商品" />
-      <item value="新增shopee" />
-      <item value="新增shopee s" />
-      <item value="新增shopee " />
-      <item value="新增" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
