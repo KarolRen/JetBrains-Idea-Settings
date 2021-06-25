@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="解绑" />
       <item value="shopee上有数据更新" />
       <item value="shopee有数据更新" />
       <item value="有数据更新" />
@@ -54,7 +55,6 @@
       <item value="已经存在" />
       <item value="已经" />
       <item value="部分数据不在店铺的商品限制范围内" />
-      <item value="部分数据不在限制范围内" />
     </histories>
     <option name="languageScores">
       <map>
