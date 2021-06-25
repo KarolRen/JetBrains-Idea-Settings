@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1101" />
+    <option name="newTranslationDialogWidth" value="1099" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="shopee上有数据更新" />
+      <item value="shopee有数据更新" />
+      <item value="有数据更新" />
+      <item value="有数据" />
+      <item value="有" />
       <item value="是否可以删除" />
       <item value="是否可以" />
       <item value="是否" />
@@ -50,20 +55,15 @@
       <item value="已经" />
       <item value="部分数据不在店铺的商品限制范围内" />
       <item value="部分数据不在限制范围内" />
-      <item value="部分数据不在限制范围" />
-      <item value="部分数据不在限制" />
-      <item value="部分数据不在" />
-      <item value="部分数据" />
-      <item value="部分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623999561133" />
+    <option name="lastTrimTime" value="1624593491866" />
   </component>
 </application>
