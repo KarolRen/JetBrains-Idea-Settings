@@ -7,12 +7,5 @@
       <jdbc-url>jdbc:mysql://192.168.5.50:3306/saas_dev?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf8&amp;autoReconnect=true&amp;allowMultiQueries=true&amp;useAffectedRows=true&amp;rewriteBatchedStatements=true&amp;useSSL=false&amp;useSSL=false&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="localhost:3306/saas_dev" uuid="754c195f-8e08-4361-90e3-c4278df375fc">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/saas_dev?useUnicode=true&amp;characterEncoding=UTF8&amp;zeroDateTimeBehavior=convertToNull&amp;autoReconnect=true&amp;transformedBitIsBoolean=true&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai&amp;allowMultiQueries=true</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
   </component>
 </application>
