@@ -1,5 +1,7 @@
 <application>
   <component name="IndentRainbowConfig">
+    <option name="disableErrorHighlighting" value="true" />
+    <option name="enabledForReadOnlyFiles" value="true" />
     <option name="paletteType" value="PASTEL" />
   </component>
 </application>
