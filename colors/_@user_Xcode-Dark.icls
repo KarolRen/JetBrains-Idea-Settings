@@ -3,7 +3,7 @@
     <property name="created">2021-06-24T11:48:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-07-02T10:11:32</property>
+    <property name="modified">2021-07-02T10:35:59</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -282,22 +282,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="383931" />
+        <option name="BACKGROUND" value="41424c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2f3936" />
+        <option name="BACKGROUND" value="3e4749" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="38303f" />
+        <option name="BACKGROUND" value="454847" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2c383d" />
+        <option name="BACKGROUND" value="494446" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="493f43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="493b41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
