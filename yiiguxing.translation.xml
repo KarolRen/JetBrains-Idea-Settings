@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="失败" />
       <item value="downgrading" />
       <item value="upgrading" />
@@ -54,11 +55,10 @@
       <item value="缺少必传" />
       <item value="缺少" />
       <item value="不在限制范围内" />
-      <item value="不在限制范围" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
+        <entry key="CHINESE" value="32" />
         <entry key="ENGLISH" value="28" />
       </map>
     </option>
