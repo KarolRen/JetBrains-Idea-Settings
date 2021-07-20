@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="multiply" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="失败" />
       <item value="downgrading" />
@@ -54,16 +55,15 @@
       <item value="缺少必传参数&#10;" />
       <item value="缺少必传" />
       <item value="缺少" />
-      <item value="不在限制范围内" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626165609182" />
+    <option name="lastTrimTime" value="1626772725922" />
   </component>
 </application>
