@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="缺失" />
+      <item value="缺失&#10;" />
       <item value="multiply" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="失败" />
@@ -53,8 +55,6 @@
       <item value="层数超过两层" />
       <item value="变体层级结构层数超过两层" />
       <item value="缺少必传参数&#10;" />
-      <item value="缺少必传" />
-      <item value="缺少" />
     </histories>
     <option name="languageScores">
       <map>
