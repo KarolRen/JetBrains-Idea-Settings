@@ -13,6 +13,11 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
