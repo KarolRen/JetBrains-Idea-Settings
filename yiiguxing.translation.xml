@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1095" />
+    <option name="newTranslationDialogWidth" value="1091" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="关系" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2 path" />
       <item value="缺失" />
       <item value="缺失&#10;" />
@@ -54,12 +55,11 @@
       <item value="层级变体" />
       <item value="层级" />
       <item value="层数超过两层" />
-      <item value="变体层级结构层数超过两层" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
