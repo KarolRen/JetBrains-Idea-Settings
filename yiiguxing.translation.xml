@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="Cannot determine local hostname" />
       <item value="关系" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2 path" />
       <item value="缺失" />
@@ -54,16 +55,15 @@
       <item value="层级变体选项" />
       <item value="层级变体" />
       <item value="层级" />
-      <item value="层数超过两层" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627373757376" />
+    <option name="lastTrimTime" value="1628045645695" />
   </component>
 </application>
