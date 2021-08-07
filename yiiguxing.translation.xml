@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1091" />
+    <option name="newTranslationDialogWidth" value="1087" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="请在5秒后重新尝试&#10;" />
+      <item value="请在5秒后重新尝试" />
+      <item value="请在5秒后重新" />
+      <item value="请在5秒后" />
+      <item value="请在5秒" />
+      <item value="请在5" />
+      <item value="请在" />
+      <item value="请" />
+      <item value="请再" />
+      <item value="请再5" />
       <item value="Cannot determine local hostname" />
       <item value="关系" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2 path" />
@@ -45,21 +55,11 @@
       <item value="存在" />
       <item value="非法的数据" />
       <item value="非法的" />
-      <item value="非法" />
-      <item value="数据异常" />
-      <item value="数据" />
-      <item value="层级变体选项数超过20个" />
-      <item value="层级变体选项数超过20" />
-      <item value="层级变体选项数超过" />
-      <item value="层级变体选项数" />
-      <item value="层级变体选项" />
-      <item value="层级变体" />
-      <item value="层级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
