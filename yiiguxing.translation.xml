@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1087" />
+    <option name="newTranslationDialogWidth" value="1081" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="直播关键词有重复，请修改后重试" />
+      <item value="直播关键词有重复，请修改后" />
+      <item value="直播关键词有重复，请修改" />
+      <item value="直播关键词有重复，请" />
+      <item value="直播关键词有重复，请球盖" />
+      <item value="直播关键词有重复，" />
+      <item value="直播关键词有重复" />
+      <item value="直播关键词" />
+      <item value="直播" />
+      <item value="直播关键词存在重复" />
+      <item value="直播关键词存在重复，" />
+      <item value="直播关键词存在" />
       <item value="请在5秒后重新尝试&#10;" />
       <item value="请在5秒后重新尝试" />
       <item value="请在5秒后重新" />
@@ -43,27 +55,15 @@
       <item value="属性选项值" />
       <item value="属性选项" />
       <item value="属性" />
-      <item value="不能添加" />
-      <item value="不能" />
-      <item value="fff不能" />
-      <item value="调用接口失败&#10;" />
-      <item value="调用接口" />
-      <item value="调用" />
-      <item value="存在部分非法的数据" />
-      <item value="存在非法的数据" />
-      <item value="存在非法的" />
-      <item value="存在" />
-      <item value="非法的数据" />
-      <item value="非法的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628045645695" />
+    <option name="lastTrimTime" value="1629773028420" />
   </component>
 </application>
