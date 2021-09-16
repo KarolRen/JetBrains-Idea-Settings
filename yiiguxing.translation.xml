@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="Active" />
       <item value="内部错误" />
       <item value="内部" />
       <item value="repetitions" />
@@ -54,7 +55,6 @@
       <item value="是否可以" />
       <item value="是否" />
       <item value="属性选项值不能为空" />
-      <item value="属性选项值不能" />
     </histories>
     <option name="languageScores">
       <map>
