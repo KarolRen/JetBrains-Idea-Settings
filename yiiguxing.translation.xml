@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1075" />
+    <option name="newTranslationDialogWidth" value="1071" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="channelLazadaService" />
       <item value="df" />
       <item value="d'f" />
       <item value="Under Review" />
@@ -54,16 +55,22 @@
       <item value="有数据更新" />
       <item value="有数据" />
       <item value="有" />
-      <item value="是否可以删除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631172612816" />
+    <option name="lastTrimTime" value="1632748543794" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
