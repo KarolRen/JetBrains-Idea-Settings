@@ -1,4 +1,5 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateDebugToolWindow" />
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Compile">
@@ -18,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
@@ -34,6 +38,9 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="mybatis.AutoCoding">
     <keyboard-shortcut first-keystroke="alt g" />

@@ -3,7 +3,7 @@
     <property name="created">2020-08-10T16:22:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-01-30T20:30:56</property>
+    <property name="modified">2021-09-30T15:29:46</property>
     <property name="originalScheme">Gradianto Deep Ocean</property>
   </metaInfo>
   <colors>
@@ -189,22 +189,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="262c2e" />
+        <option name="BACKGROUND" value="303749" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1d2c33" />
+        <option name="BACKGROUND" value="2e3b46" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="26233c" />
+        <option name="BACKGROUND" value="343c45" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="1a2b3a" />
+        <option name="BACKGROUND" value="393843" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="393341" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="392f3e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

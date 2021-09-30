@@ -1,30 +1,81 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Desktop/222/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/dev" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/dev/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/dev1/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/emoji/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/import/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/lazada/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/live/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/master/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/media" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/media/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/merge/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/paster/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/shopee/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/shopee_copyProduct/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/shopee_discount/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/shopee_fixbug/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/shopee_order/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/test/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/0p/uat/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-channel" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-chat" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-chatplatform" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-dfs" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-id-generator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-jenkins" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/cc-k8s" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/demoMybatisplus" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-channelshop" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-common" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-dfs" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-id-generator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-inventory" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-jenkins" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-livebox" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-short-link" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash/saas-urm" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/0product/dev/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/0product/dev_import/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/0product/dev_shopee/saas-product" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/11/fastdfs-docker-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/11/saas-dfs" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/11/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/22/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/2222222222222/saas-product" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/demoMybatisplus" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/flashexpress-saas-user-all" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-cart" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-channel-shop" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-channelshop" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-common" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-customer" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-customer-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-dfs" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-es" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-gateway-web" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-id-generator" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-inventory" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-jenkins" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-livebox" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-long-mgmt" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-notice" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-order" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/flash_space/saas-shopee" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-short-link" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/flash_space/saas-urm" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yq_area_server" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yq_timer_event" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/area_timer/yqts-nrgl/yqts-nrgl-interflow" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/btc/trs-cloud-btc-server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/idCard/IdCardBuilder-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/idCard/IdcodeGenerater-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/rzk/yq_area_demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/idea_space/test/IdcodeGenerater-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/test/yq_server" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/yq/optimize/yq_server" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/idea_space/yq/yq_server" startUpFlag="FIRST" />
