@@ -1,10 +1,34 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1071" />
+    <option name="newTranslationDialogWidth" value="1065" />
     <option name="newTranslationDialogX" value="318" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="某些sku被Lazada锁定，不能编辑" />
+      <item value="sku被锁定，禁止编辑" />
+      <item value="存在sku被锁定，禁止编辑" />
+      <item value="禁止编辑，存在sku被锁定" />
+      <item value="禁止编辑，存在sku被锁定，" />
+      <item value="禁止编辑存在sku被锁定，" />
+      <item value="存在sku被锁定，" />
+      <item value="存在sku被锁定，编辑" />
+      <item value="存在sku被锁定，无法编辑" />
+      <item value="sku被锁定，无法编辑" />
+      <item value="1个sku被锁定，无法编辑" />
+      <item value="One sku is locked and cannot be edited" />
+      <item value="有一个sku被锁定，不能进行编辑" />
+      <item value="有一个sku被锁定，不能进行" />
+      <item value="有一个sku被锁定，不能" />
+      <item value="有一个sku被锁定，" />
+      <item value="有一个sku被锁定" />
+      <item value="一个sku被锁定" />
+      <item value="存在一个sku被锁定" />
+      <item value="存在一个sku" />
+      <item value="一个sku" />
+      <item value="有一个sku" />
+      <item value="存在一个" />
+      <item value="存在" />
       <item value="channelLazadaService" />
       <item value="df" />
       <item value="d'f" />
@@ -31,40 +55,16 @@
       <item value="请在5秒后" />
       <item value="请在5秒" />
       <item value="请在5" />
-      <item value="请在" />
-      <item value="请" />
-      <item value="请再" />
-      <item value="请再5" />
-      <item value="Cannot determine local hostname" />
-      <item value="关系" />
-      <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2 path" />
-      <item value="缺失" />
-      <item value="缺失&#10;" />
-      <item value="multiply" />
-      <item value="Variable used in lambda expression should be final or effectively final" />
-      <item value="失败" />
-      <item value="downgrading" />
-      <item value="upgrading" />
-      <item value="estimated" />
-      <item value="july&#10;" />
-      <item value="条件" />
-      <item value="同步" />
-      <item value="解绑" />
-      <item value="shopee上有数据更新" />
-      <item value="shopee有数据更新" />
-      <item value="有数据更新" />
-      <item value="有数据" />
-      <item value="有" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632748543794" />
+    <option name="lastTrimTime" value="1633954839639" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
