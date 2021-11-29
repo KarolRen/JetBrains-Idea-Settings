@@ -1,0 +1,69 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="647" />
+    <option name="newTranslationDialogWidth" value="1063" />
+    <option name="newTranslationDialogX" value="454" />
+    <option name="newTranslationDialogY" value="165" />
+    <histories>
+      <item value="统计分析" />
+      <item value="分析" />
+      <item value="统计" />
+      <item value="ff" />
+      <item value="com.shopwinner.saas.channelshop.dto.tiktok.Resp.detail" />
+      <item value="TIKTOK PRODUCT Product Get Product List" />
+      <item value="某些sku被Lazada锁定，不能编辑" />
+      <item value="sku被锁定，禁止编辑" />
+      <item value="存在sku被锁定，禁止编辑" />
+      <item value="禁止编辑，存在sku被锁定" />
+      <item value="禁止编辑，存在sku被锁定，" />
+      <item value="禁止编辑存在sku被锁定，" />
+      <item value="存在sku被锁定，" />
+      <item value="存在sku被锁定，编辑" />
+      <item value="存在sku被锁定，无法编辑" />
+      <item value="sku被锁定，无法编辑" />
+      <item value="1个sku被锁定，无法编辑" />
+      <item value="One sku is locked and cannot be edited" />
+      <item value="有一个sku被锁定，不能进行编辑" />
+      <item value="有一个sku被锁定，不能进行" />
+      <item value="有一个sku被锁定，不能" />
+      <item value="有一个sku被锁定，" />
+      <item value="有一个sku被锁定" />
+      <item value="一个sku被锁定" />
+      <item value="存在一个sku被锁定" />
+      <item value="存在一个sku" />
+      <item value="一个sku" />
+      <item value="有一个sku" />
+      <item value="存在一个" />
+      <item value="存在" />
+      <item value="channelLazadaService" />
+      <item value="df" />
+      <item value="d'f" />
+      <item value="Under Review" />
+      <item value="Active" />
+      <item value="内部错误" />
+      <item value="内部" />
+      <item value="repetitions" />
+      <item value="直播关键词有重复，请修改后重试" />
+      <item value="直播关键词有重复，请修改后" />
+      <item value="直播关键词有重复，请修改" />
+      <item value="直播关键词有重复，请" />
+      <item value="直播关键词有重复，请球盖" />
+      <item value="直播关键词有重复，" />
+      <item value="直播关键词有重复" />
+      <item value="直播关键词" />
+      <item value="直播" />
+      <item value="直播关键词存在重复" />
+      <item value="直播关键词存在重复，" />
+      <item value="直播关键词存在" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="47" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1636946372845" />
+  </component>
+</application>
