@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="647" />
-    <option name="newTranslationDialogWidth" value="1063" />
+    <option name="newTranslationDialogHeight" value="228" />
+    <option name="newTranslationDialogWidth" value="443" />
     <option name="newTranslationDialogX" value="454" />
     <option name="newTranslationDialogY" value="165" />
     <histories>
+      <item value="region" />
       <item value="统计分析" />
       <item value="分析" />
       <item value="统计" />
@@ -54,17 +55,16 @@
       <item value="直播" />
       <item value="直播关键词存在重复" />
       <item value="直播关键词存在重复，" />
-      <item value="直播关键词存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636946372845" />
+    <option name="lastTrimTime" value="1638878794549" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Consolas" />
