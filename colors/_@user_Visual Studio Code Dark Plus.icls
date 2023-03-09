@@ -3,8 +3,9 @@
     <property name="created">2021-06-24T20:42:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2023-03-09T17:20:33</property>
+    <property name="modified">2023-03-09T18:04:27</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
@@ -878,7 +879,7 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
   </attributes>
 </scheme>
